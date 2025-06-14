@@ -1,1 +1,1 @@
-# Hospital-Dashboard-System
+# Hotel-Management-System
